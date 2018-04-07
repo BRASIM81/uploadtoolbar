@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 25px;
+    font-family: cabin-sketch;
+}
+
+h1,
+h3,
+#myBtn {
+    font-family: kelly-slab;
+}
+
+progress {
+    width: 800px;
+    height: 15px;
+    margin: 0px auto;
+}
